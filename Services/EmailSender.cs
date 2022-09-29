@@ -9,8 +9,8 @@ namespace Email.Services
     {
         public async Task SendEmailAsync(string email, string subject, string htmlMessage)
         {
-            string fromMail = "qthwng.01@gmail.com";
-            string fromPassword = "dtzdseydrlsleekz";
+            string fromMail = "Your Email";
+            string fromPassword = "Your Secret Password";
 
             MailMessage message = new MailMessage();
             message.From = new MailAddress(fromMail);
