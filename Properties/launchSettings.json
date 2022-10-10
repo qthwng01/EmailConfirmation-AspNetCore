@@ -12,7 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "SendGridKey": "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",
+        "SendGridKey": "Your SendGridKey",
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
       }
